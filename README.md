@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 - 🌬 I’m Philipe
-- 🌱 I’m currently learning managing applications in containers with Kubernets <img height="18" src="https://raw.githubusercontent.com/jmnote/z-icons/master/16x16/kubernetes.png">
 - 💻 I’m a mobile developer
 <!-- - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
